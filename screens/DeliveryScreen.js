@@ -73,7 +73,7 @@ const DeliveryScreen = () => {
       <SafeAreaView className='bg-white flex-row items-center space-x-5 h-28'>
         <Image
           source={{
-            uri: 'https://links.papareact.com/wru',
+            uri: 'https://images.prismic.io/dbhq-deliveroo-riders-website/ed825791-0ba4-452c-b2cb-b5381067aad3_RW_hk_kit_importance.png?auto=compress,format&rect=0,0,1753,1816&w=1400&h=1450',
           }}
           className='h-12 w-12 bg-gray-300 p-4 rounded-full ml-5'
         />
